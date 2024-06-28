@@ -1,0 +1,4 @@
+<!-- Example of using SVG in Angular component template -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="16px" height="16px" fill="#fff">
+    <path d="M440.1 145.5L432 137.4c-4.7-4.7-12.3-4.7-17 0L224 329.9 33 137.4c-4.7-4.7-12.3-4.7-17 0L7.9 145.5c-4.7 4.7-4.7 12.3 0 17l200.5 200.5c4.7 4.7 12.3 4.7 17 0l200.5-200.5c4.8-4.6 4.8-12.2.1-16.9z"/>
+</svg>
